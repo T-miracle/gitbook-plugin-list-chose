@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-list-chose",
+        "raw": "gitbook-plugin-list-chose@1.0.0",
+        "rawSpec": "1.0.0",
+        "scope": null,
+        "spec": "1.0.0",
+        "type": "version"
+      },
+      "D:\\Gitbook\\zhangyumiao"
+    ]
+  ],
+  "_from": "gitbook-plugin-list-chose@1.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "gitbook-plugin-list-chose@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-list-chose",
+  "_nodeVersion": "10.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gitbook-plugin-list-chose_1.0.0_1641161003147_0.32280325012535127"
+  },
+  "_npmUser": {
+    "email": "1720570275@qq.com",
+    "name": "tmiracle"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gitbook-plugin-list-chose",
+    "raw": "gitbook-plugin-list-chose@1.0.0",
+    "rawSpec": "1.0.0",
+    "scope": null,
+    "spec": "1.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-list-chose/-/gitbook-plugin-list-chose-1.0.0.tgz",
+  "_shasum": "a0b20784109b0a5c4fc2511ac302b4639a4bd746",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-list-chose@1.0.0",
+  "_where": "D:\\Gitbook\\zhangyumiao",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 7,
+    "integrity": "sha512-9vOo7u9Tmj11nazSuT0jNxUtQZ88kJxB7l+e2nU+DpznGk2Dh0dj8FZEhRUCYlnsEfFgy1DCvnqOqsUPniEKkg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh0iErCRA9TVsSAnZWagAAZ/YP/34bKgCBmJW5PFaxZ8MU\nfU9aB41DvNqyV4g7ltVM6vxX+EA9ROW++JJ4oAOmC8xWXGXsl79GKOEo2+ZS\nzwn4uh2f6ME96rff+tjn5cZ+DiFIUs8axeDSBHCyLG2f9BjM2AdpcW2/sgLu\nQw9oYYzCflRlLURK47NqhB4LcKlSck01nrQsGcEcHmSnb91uW/VIppcQqYZY\n8le7EtV8atdXLiffUr16+PpHePFDjQXI1DC4yyeCfOCBZPGv2y1DFUOzW71F\nGoEVVglxVNB2N4AC8THGKZZ/sA0G21JL1vQZfmLh3fvoLKbJkiLoCs3ZwD7M\nxGhc8imC0aQ1hF31xAKgsdmnDltyBOnP5HzNN1WNucw9Bsf1QbP8JYkEWeWP\n9UuXkig159hLiinFn0zRmg1AdIWJo/eAqMW33RsqwhCjID5k9nMM2hIrDl8l\ns8mYcoKJTxt9UUrGhZpaUpWlSef9yIeYUAh+1ub3gZM4JDzrl0IiFOyVBVzB\n9E2yf2NLGzgbjlTMpE6Xc3W9bV0o2Fiki5E3PVK30znOMr+Ntqo/TSS6hmr2\nflxaqvCw0T8HrKhU3M2Ub3GLkfVhYwepBb+WmHoDJwkYM7/3+jZb41bzsL3/\nYU5M8q3gzCpqsKx0KWg0dgV70eqVkUQZZlaQc4MPKDAqI2N6mslKhCdmYv0f\nLqLS\r\n=fpnL\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "a0b20784109b0a5c4fc2511ac302b4639a4bd746",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-list-chose/-/gitbook-plugin-list-chose-1.0.0.tgz",
+    "unpackedSize": 8531
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "1720570275@qq.com",
+      "name": "tmiracle"
+    }
+  ],
+  "name": "gitbook-plugin-list-chose",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
